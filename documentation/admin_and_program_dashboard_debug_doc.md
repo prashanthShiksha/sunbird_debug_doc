@@ -29,7 +29,8 @@ Ensure that all data pipelines are running properly every day. The Admin and Pro
 To analyze logs on the `ml-analytics-service` server:  
 - **Pipeline Logs:** `/opt/ml-analytics-service/logs`  
 - **Cron Job Logs:** `/opt/ml-analytics-service/cron-tab.logs`  
-Note : If you found any discripencies in data pipeline logs to resolve issue follow this document [Data Pipeline Verification](/documentation/data-pipeline.md)
+
+**Note** : If you find any discrepancies in the data pipeline logs, please follow this document to resolve the issue [Data Pipeline Verification](/documentation/data-pipeline.md) .
 ### **3. Reference Documentation**  
 Use the **[Admin and Program Dashboard Report Doc](https://docs.google.com/spreadsheets/d/1Eoa8ggJAW3fz7AM1NhZsX-QrMtP8_DxtJ__LGlWyzj0/edit?gid=68465466#gid=68465466)** to identify which reports depend on which Druid data sources.  
 
