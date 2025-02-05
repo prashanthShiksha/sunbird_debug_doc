@@ -113,6 +113,4 @@ db.createCollection('dataProductConfigurations')
    cat joblog.log
    ```
 
-### Step 4: Access Reports
-1. If the job runs successfully without errors, reports can be accessed on the **SPV portal**.
 
